@@ -1,0 +1,96 @@
+/* Top menu */
+
+.menu {
+background-color: #efefef;
+display: block;
+height: 50px;
+width: 564px;
+}
+
+.menu ul {
+margin: 0;
+padding: 0;
+border: 0;
+display: inline;
+
+}
+
+.menu ul li {
+margin: 0;
+border: 0;
+padding: 0;
+display: inline;
+line-height: 50px;
+float: left;
+border-right: 1px solid #efefef;
+}
+
+.menu ul li a:link, .menu ul li a:visited  {
+line-height: 50px;
+font-family: arial;
+font-size: 1.4em;
+text-align: center;
+width: 140px;
+display: block;
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+background-color: #efefef;
+}
+
+.menu ul li a:hover, .menu ul li a:active  {
+color: #fff;
+font-family: arial;
+font-size: 1.4em;
+text-align: center;
+width: 140px;
+display: block;
+line-height: 50px;
+text-decoration: none;
+font-weight: bold;
+background-color: #efefef;
+}
+
+
+
+/* left menu */
+
+#button {
+	width: 10em;
+	padding: 1em 0 0 1em;
+	margin-bottom: 1em;
+	font-family: 'Trebuchet MS', 'Lucida Grande',
+	  Verdana, Lucida, Geneva, Helvetica, 
+	  Arial, sans-serif;
+	}
+	
+	
+#button ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		border: none;
+		}
+		
+	#button li {
+		border-bottom: 1px solid #EEEEEE;
+		margin: 0;
+		}
+#button li a {
+		display: block;
+		padding: 5px 5px 5px 0.5em;
+		background-color: #efefef;
+		color: #222211;
+		text-decoration: none;
+		width: 100%;
+		}
+
+	html>body #button li a {
+		width: auto;
+		}
+
+	#button li a:hover {
+	background-color: Gray;
+	color: #fff;
+}
+
