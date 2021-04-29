@@ -140,70 +140,66 @@
 </head>
 <body bgcolor="#efefef" text="#555555" link="#FFFFFF" vlink="#CCCCCC" alink="#CCCCCC" leftmargin="0" topmargin="10" marginwidth="0" marginheight="0">
 <table align="center" width="850" border="1" cellspacing="0" cellpadding="0">
-  <tr > 
+  <tr >
     <td rowspan="2" bgcolor="#FEFEFE">
 	<img src="churchpart.jpg" name="image" width="99" height="125" border="0" alt="Church"></td>
-    <td style="height: 71; width: 750;" class="auto-style5"> 
-	<font color="#000066"> <strong><span class="auto-style1">&nbsp;</span><span class="auto-style9"> Downshire 
+    <td style="height: 71; width: 750;" class="auto-style5">
+	<font color="#000066"> <strong><span class="auto-style1">&nbsp;</span><span class="auto-style9"> Downshire
 	Hill Residents' Association</span></strong></font></td>
   </tr>
- 
+
 </table>
 <table bgcolor="#FFFFFF" width="850" border="0" cellspacing="4" cellpadding="2" align="center">
-  <tr valign="top"> 
-    <td bgcolor="#ffffff" width="160" align="center" rowspan="5"> 
-      <div id="button"> 
-      
+  <tr valign="top">
+    <td bgcolor="#ffffff" width="160" align="center" rowspan="5">
+      <div id="button">
+
         <ul>
           <li>&nbsp;&nbsp;</li>
-          
-          
+
+
 			<li><font size="-1"><a href="index.htm">Aims</a></font></li>
 			<li>&nbsp;&nbsp; </li>
-		
+
             <li><a href="news.htm"><font size="-1">News</font></a></li>
             <li>&nbsp;&nbsp; </li>
-        
+
 			<li><a href="minutes.htm"><font size="-1">Minutes</font></a></li>
 			<li>&nbsp;&nbsp; </li>
-			
+
 			<li><a href="campaigns.htm"><font size="-1">Campaigns</font></a></li>
 			<li>&nbsp;&nbsp;</li>
-			
+
 			<li><a href="contacts.htm"><font size="-1">Contacts</font></a></li>
 			<li>&nbsp;&nbsp;</li>
-			
+
 			<li class="auto-style14"><a href="governance.htm"><font size="-1">Governance</font></a></li>
 			<li>&nbsp;&nbsp;</li>
 		</ul>
-		
+
 
 
 
       </div></td>
-    <td height="23" style="width: 663px"> 
+    <td height="23" style="width: 663px">
       <p align="center">&nbsp;</p>
 	  <p class="auto-style29"><b><span class="auto-style44">
-	  <span class="auto-style34">A new </span><span class="auto-style36">Web-pe</span></span><span class="auto-style41">rson</span><span class="auto-style40"> 
-	  is now required to </span></b></p>
-	  <p class="auto-style39"><span class="auto-style281">
-	  <span class="auto-style33"><span class="auto-style44">administer this 
-	  website</span>. </span></span><o:p></o:p></p>
-	  <p class="auto-style35">If anyone living in Downshire Hill is interested 
-	  in taking over this website please email me at:</p>
+	  <h4>A new Web-person is now required to administer this
+	  website</h4>
+	  <p class="auto-style35">If anyone living in Downshire Hill is interested in taking over this website please email me at:</p>
 	  <p class="auto-style43">andrewainger @ hotmail . com<o:p></o:p></p>
 	  <p class="auto-style35">Only <strong>key administration</strong> 
-	  activities are necessary on the website now. <strong>No coding </strong>is 
-	  necessary as the format has been established. The voluentry work needed 
+	  activities are necessary on the website now. <strong>No coding </strong>is
+	  necessary as the format has been established. The voluentry work needed
 	  will be to upload documents to the website every month or so. <o:p></o:p>
 	  </p>
-	  <p class="auto-style35">This activity could suit a well-organised person 
-	  with an interest in the Downshire Hill&nbsp;area. Alternatively, it could suit 
-	  a responsible person who is interested in gaining website experience. The 
-	  current format could the redesigned (Wix?) provided the current Chair 
+	  <p class="auto-style35">This activity could suit a well-organised person
+	  with an interest in the Downshire Hill&nbsp;area. Alternatively, it could suit
+	  a responsible person who is interested in gaining website experience. The
+	  current format could the redesigned (Wix?) provided the current Chair
 	  agrees with the new format and style.<o:p></o:p></p>
 	  <p class="auto-style35">Please do not hesitate to contact me if you are
-	  <strong>interested</strong> in this activity. We can discuss the estimated 
+	  <strong>interested</strong> in this activity. We can discuss the estimated
 	  work-load and options to take it forward.</p>
 	  <p class="auto-style35">Kind regards. </p>
 	  <p class="auto-style35">Andrew<o:p></o:p></p>
@@ -212,11 +208,11 @@
 	  ______________________________________________________________________</font></p>
 	  <p align="center" class="auto-style37">&nbsp;</p></td>
   </tr>
-  <tr> 
-    <td height="394" valign="top" style="width: 663px"> 
-      <div class="right"> 
+  <tr>
+    <td height="394" valign="top" style="width: 663px">
+      <div class="right">
         <p align="left">
-		<![if !supportLists]><b style="mso-bidi-font-weight:normal"><span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">AIMS. <o:p></o:p></span></b> 
+		<![if !supportLists]><b style="mso-bidi-font-weight:normal"><span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">AIMS. <o:p></o:p></span></b>
         <![endif]></p>
 		  <p class="MsoNormal">
 
@@ -235,25 +231,25 @@
 	  <p class="auto-style13" style="mso-list: l1 level1 lfo2">
 	  <![if !supportLists]><span style="mso-list:Ignore">
 	  <span style="font-size:12.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol">·</span><span style="line-height: 107%; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><![endif]><span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">To advise and support members of the Association collectively in the 
+Symbol;mso-bidi-font-family:Symbol">ï¿½</span><span style="line-height: 107%; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><![endif]><span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">To advise and support members of the Association collectively in the
 		  promotion and protection of their concerns in the Area</span></p>
 	  <p class="auto-style13" style="mso-list: l1 level1 lfo2">
 	  <span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">.<o:p></o:p></span></p>
 	  <p class="auto-style13" style="mso-list: l1 level1 lfo2">
 	  <![if !supportLists]><span style="mso-list:Ignore">
 	  <span style="font-size:12.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol">·</span><span style="line-height: 107%; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><![endif]><span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">To foster a sense of Community in the Area.<o:p></o:p></span></p>
+Symbol;mso-bidi-font-family:Symbol">ï¿½</span><span style="line-height: 107%; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><![endif]><span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">To foster a sense of Community in the Area.<o:p></o:p></span></p>
 	  <p class="auto-style13" style="mso-list: l1 level1 lfo2">
 	  <o:p>&nbsp;</o:p></p>
 	  <p class="auto-style12" style="mso-list: l1 level1 lfo2">
 	  <![if !supportLists]><span style="mso-list:Ignore">
 	  <span style="font-size:12.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol">·</span><span style="line-height: 107%; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><![endif]><span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">To endeavour to reflect the views of the Area&#8217;s residents.<o:p></o:p></span></p>
-	  <div class="right"> 
+Symbol;mso-bidi-font-family:Symbol">ï¿½</span><span style="line-height: 107%; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="font-style: normal; font-variant: normal; font-weight: normal; line-height: normal; font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><![endif]><span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">To endeavour to reflect the views of the Area&#8217;s residents.<o:p></o:p></span></p>
+	  <div class="right">
 		  <p class="MsoNormal">
 		  <span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">
-		  The interests of the member of the Association are taken to include;- 
-		  public services and amenities, planning and development and 
+		  The interests of the member of the Association are taken to include;-
+		  public services and amenities, planning and development and
 		  conservation, traffic, parking and safety issues.<o:p></o:p></span></p>
 		  <p class="MsoNormal">
 		  <span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">
@@ -261,14 +257,14 @@ Symbol;mso-bidi-font-family:Symbol">·</span><span style="line-height: 107%; font
 		  <p class="MsoNormal">
 		  <span style="line-height: 107%; font-family: &quot;Arial&quot;,sans-serif">
 		  The Association will not align itself with any political party.<o:p></o:p></span></p>
-		  <p align="left"><br><br> 
+		  <p align="left"><br><br>
         </p>
         </div></td>
   </tr>
-  <tr> 
+  <tr>
     <td align="right" style="width: 663px">&nbsp;</td>
   </tr>
-  <tr> 
+  <tr>
     <td bgcolor="#CCCCCC" style="width: 663px"> Note</td>
   </tr>
   <tr>
@@ -277,21 +273,21 @@ Symbol;mso-bidi-font-family:Symbol">·</span><span style="line-height: 107%; font
 	<br><span class="auto-style3">&nbsp;Chairman </span>
 	  </td>
   </tr>
-  <tr> 
+  <tr>
     <td colspan="2">&nbsp; </td>
   </tr>
 </table>
 <table width="850" border="0" cellspacing="0" cellpadding="4" align="center">
-  <tr align="center"> 
-    <td><a href="http://www.downshirehillra.com"><font color="#999999">&lt; 
+  <tr align="center">
+    <td><a href="http://www.downshirehillra.com"><font color="#999999">&lt;
       Home </font></a><font color="#999999"></a></font></td>
   </tr>
 </table>
 <p> <font size="-7"><br>
   </font> </p>
                     <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#CCCCCC">
-  <tr> 
-    <td> <font color="#333333"><span class="auto-style4">©2021</span><a href="http://www.btecnet.co.uk"><span class="auto-style8"> BTecNet
+  <tr>
+    <td> <font color="#333333"><span class="auto-style4">ï¿½2021</span><a href="http://www.btecnet.co.uk"><span class="auto-style8"> BTecNet
 	</span></a> </font></td>
     <td align="right">&nbsp;</td>
   </tr>
@@ -301,4 +297,3 @@ Symbol;mso-bidi-font-family:Symbol">·</span><span style="line-height: 107%; font
 
 </body>
 </html>
-
